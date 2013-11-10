@@ -20,6 +20,7 @@
     NSLog(@"hello ther");
     NSLog(@"this is a new hello there");
     NSLog(@"i dont know about this");
+    NSLog(@"caaaaddd");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
